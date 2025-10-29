@@ -4,18 +4,29 @@
 
 ### ⚡ **Code Craftsman** • 🚀 **Digital Innovator** • 🎨 **Solution Architect**
 
-<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
+<div style="display: inline-flex; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 4px; border-radius: 30px; margin: 15px 0;">
 
-<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
-📱 MOBILE ARTISAN
+<div style="background: #0d1117; padding: 20px 30px; border-radius: 26px; display: flex; gap: 25px; align-items: center; flex-wrap: wrap; justify-content: center;">
+
+<div style="text-align: center;">
+  <div style="font-size: 24px;">📱</div>
+  <div style="font-weight: bold; font-size: 14px;">Android Developer</div>
 </div>
 
-<div style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
-🌐 FULL-STACK VISIONARY
+<div style="width: 2px; height: 40px; background: linear-gradient(to bottom, #667eea, #764ba2);"></div>
+
+<div style="text-align: center;">
+  <div style="font-size: 24px;">💻</div>
+  <div style="font-weight: bold; font-size: 14px;">Full Stack Engineer</div>
 </div>
 
-<div style="background: linear-gradient(45deg, #4facfe, #00f2fe); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
-🔥 TECH INNOVATOR
+<div style="width: 2px; height: 40px; background: linear-gradient(to bottom, #667eea, #764ba2);"></div>
+
+<div style="text-align: center;">
+  <div style="font-size: 24px;">🎯</div>
+  <div style="font-weight: bold; font-size: 14px;">Problem Solver</div>
+</div>
+
 </div>
 
 </div>

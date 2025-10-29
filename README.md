@@ -1,29 +1,24 @@
 <div align="center">
 
-# 💫 **Albino Siby**
+# 🎯 **ALBINO SIBY**
 
-<table>
-  <tr>
-    <td align="center" style="border: none;">
-      <div style="background: linear-gradient(135deg, #667eea, #764ba2); padding: 15px; border-radius: 20px; margin: 10px; min-width: 150px;">
-        <div style="font-size: 32px;">📱</div>
-        <div style="font-weight: bold; font-size: 16px;">Android Developer</div>
-      </div>
-    </td>
-    <td align="center" style="border: none;">
-      <div style="background: linear-gradient(135deg, #f093fb, #f5576c); padding: 15px; border-radius: 20px; margin: 10px; min-width: 150px;">
-        <div style="font-size: 32px;">🌐</div>
-        <div style="font-weight: bold; font-size: 16px;">Full Stack Engineer</div>
-      </div>
-    </td>
-    <td align="center" style="border: none;">
-      <div style="background: linear-gradient(135deg, #4facfe, #00f2fe); padding: 15px; border-radius: 20px; margin: 10px; min-width: 150px;">
-        <div style="font-size: 32px;">🎯</div>
-        <div style="font-weight: bold; font-size: 16px;">Problem Solver</div>
-      </div>
-    </td>
-  </tr>
-</table>
+### ⚡ **Code Craftsman** • 🚀 **Digital Innovator** • 🎨 **Solution Architect**
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0; flex-wrap: wrap;">
+
+<div style="background: linear-gradient(45deg, #667eea, #764ba2); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(102, 126, 234, 0.3);">
+📱 MOBILE ARTISAN
+</div>
+
+<div style="background: linear-gradient(45deg, #f093fb, #f5576c); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(240, 147, 251, 0.3);">
+🌐 FULL-STACK VISIONARY
+</div>
+
+<div style="background: linear-gradient(45deg, #4facfe, #00f2fe); padding: 12px 20px; border-radius: 25px; font-weight: bold; box-shadow: 0 4px 15px rgba(79, 172, 254, 0.3);">
+🔥 TECH INNOVATOR
+</div>
+
+</div>
 
 </div>
 👨‍💻 About Me

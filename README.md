@@ -1,22 +1,17 @@
-![Cover Image](assets/cover.jpg)
+ Albino Siby
+<div align="center">
+💻 Android Developer | 🌐 Full Stack Engineer | 🎯 Tech Innovator
+</div>
+👨‍💻 About Me
+<div style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
+🎓 Computer Science Student at Vimal Jyothi Engineering College
+💡 Passionate Developer with a vision for creating real-world, impactful solutions
 
-<table>
-  <tr>
-    <td>
-      <img src="Prof.jpg" alt="Albino Siby" width="140" height="140" style="border-radius: 50%; border: 4px solid #4CAF50; box-shadow: 0 0 10px rgba(0,0,0,0.5);">
-    </td>
-    <td style="padding-left: 20px; vertical-align: middle;">
-      <h1 style="margin: 0; font-size: 26px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-        Albino Siby
-      </h1>
-      <p style="margin: 5px 0 0 0; font-size: 16px; color: #ccc;">Andriod Developer | Full Stack Engineer</p>
-    </td>
-  </tr>
-</table>
+I'm a dedicated technology enthusiast who thrives on transforming innovative ideas into functional, scalable applications. With expertise spanning across mobile development, web technologies, and backend systems, I specialize in building comprehensive solutions that bridge the gap between concept and reality.
 
-Hi 👋, I'm Albino Siby, a passionate Computer Science student at Vimal Jyothi Engineering College with a strong focus on Flutter app development and creating real-world, impactful solutions. I have hands-on experience in Flutter, Flask, HTML, CSS, JavaScript, PHP, Firebase, and Firebase Studio, and I’m skilled in building both mobile and web applications with efficient backend integration. Along with that, I work with Python, C, Java, Django, Render, and Gunicorn, and I’m also exploring machine learning to develop smarter and more adaptive systems. I’m always eager to learn, collaborate, and innovate—transforming ideas into meaningful, tech-driven solutions.
+🌟 My Mission: To leverage cutting-edge technologies in creating applications that not only solve problems but also enhance user experiences and drive positive change in the digital landscape.
 
-
+</div>
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://albino-siby-website.onrender.com/) 

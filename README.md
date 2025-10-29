@@ -1,6 +1,6 @@
 # Albino Siby
 <div align="center">
-🤖 Android Developer | 💻 Full Stack Engineer | 🎯 Problem Solver
+🤖 Android Developer | 💻 Full Stack Engineer | 🎯 Problem Solver <br>
 </div>
 👋 Hey there! I'm Albino
 I'm a Computer Science student at Vimal Jyothi Engineering College who's absolutely passionate about building things that work. I don't just code – I solve problems and create solutions that make a real difference.

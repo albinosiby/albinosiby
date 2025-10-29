@@ -1,47 +1,18 @@
+# Albino Siby
 <div align="center">
-
-# 🎯 **ALBINO SIBY**
-
-### ⚡ **Code Craftsman** • 🚀 **Digital Innovator** • 🎨 **Solution Architect**
-
-<div style="display: inline-flex; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 4px; border-radius: 30px; margin: 15px 0;">
-
-<div style="background: #0d1117; padding: 20px 30px; border-radius: 26px; display: flex; gap: 25px; align-items: center; flex-wrap: wrap; justify-content: center;">
-
-<div style="text-align: center;">
-  <div style="font-size: 24px;">📱</div>
-  <div style="font-weight: bold; font-size: 14px;">Android Developer</div>
+🤖 Android Developer | 💻 Full Stack Engineer | 🎯 Problem Solver
 </div>
+👋 Hey there! I'm Albino
+I'm a Computer Science student at Vimal Jyothi Engineering College who's absolutely passionate about building things that work. I don't just code – I solve problems and create solutions that make a real difference.
 
-<div style="width: 2px; height: 40px; background: linear-gradient(to bottom, #667eea, #764ba2);"></div>
+What I'm All About:
+🛠️ Building mobile apps that people actually use
 
-<div style="text-align: center;">
-  <div style="font-size: 24px;">💻</div>
-  <div style="font-weight: bold; font-size: 14px;">Full Stack Engineer</div>
-</div>
+🌐 Creating web platforms that solve real problems
 
-<div style="width: 2px; height: 40px; background: linear-gradient(to bottom, #667eea, #764ba2);"></div>
+🔥 Mastering Flutter, Firebase, and full-stack development
 
-<div style="text-align: center;">
-  <div style="font-size: 24px;">🎯</div>
-  <div style="font-weight: bold; font-size: 14px;">Problem Solver</div>
-</div>
-
-</div>
-
-</div>
-
-</div>
-👨‍💻 About Me
-<div style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 25px; border-radius: 15px; margin: 20px 0; box-shadow: 0 8px 25px rgba(0,0,0,0.3);">
-🎓 Computer Science Student at Vimal Jyothi Engineering College
-💡 Passionate Developer with a vision for creating real-world, impactful solutions
-
-I'm a dedicated technology enthusiast who thrives on transforming innovative ideas into functional, scalable applications. With expertise spanning across mobile development, web technologies, and backend systems, I specialize in building comprehensive solutions that bridge the gap between concept and reality.
-
-🌟 My Mission: To leverage cutting-edge technologies in creating applications that not only solve problems but also enhance user experiences and drive positive change in the digital landscape.
-
-</div>
+🚀 Learning every single day
 ## 🌐 Socials:
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=About.me&logoColor=white)](https://albino-siby-website.onrender.com/) 

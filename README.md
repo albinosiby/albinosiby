@@ -5,13 +5,12 @@
     </td>
     <td style="padding-left: 20px; vertical-align: middle;">
       <h1 style="margin: 0; font-size: 26px; background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; color: transparent;">
-        Jison Joseph Sebastian
+        Albino Siby
       </h1>
       <p style="margin: 5px 0 0 0; font-size: 16px; color: #ccc;">Python Developer | Full Stack Engineer |Machine Learning Enthusiast</p>
     </td>
   </tr>
 </table>
-# 💫 About Me:
 Hi 👋, I'm Albino Siby, a passionate Computer Science student at Vimal Jyothi Engineering College with a strong focus on Flutter app development and creating real-world, impactful solutions. I have hands-on experience in Flutter, Flask, HTML, CSS, JavaScript, PHP, Firebase, and Firebase Studio, and I’m skilled in building both mobile and web applications with efficient backend integration. Along with that, I work with Python, C, Java, Django, Render, and Gunicorn, and I’m also exploring machine learning to develop smarter and more adaptive systems. I’m always eager to learn, collaborate, and innovate—transforming ideas into meaningful, tech-driven solutions.
 
 
